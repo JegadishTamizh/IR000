@@ -14,19 +14,19 @@
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
-            "value": "2085963018:AAELvrbWMfeJWk-r7lG91E0bc2sKspMaGqw"
+            "value": "5381948116:AAEPz_ngx3Q2314xYeJlkL-ow5zuOROoK-A"
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org or @UseTGXBot",
-            "value": "41d88a8a4319ad19f451a8ca47d2e37f"
+            "value": "ad6d7718a2b83df1ae1558754c560215"
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org or @UseTGXBot",
-            "value": "3264079"
+            "value": "15655409"
         },
         "AUTH_USERS": {
             "description": "Id of users that can use the bot, from @MissRose_bot by /id command",
-            "value": "926195542"
+            "value": "1139006915"
         }
     },
     "addons": [],
