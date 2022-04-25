@@ -8,14 +8,14 @@ import os
 class Config(object):
 
     # Get a bot token from botfather
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "2085963018:AAELvrbWMfeJWk-r7lG91E0bc2sKspMaGqw")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5381948116:AAEPz_ngx3Q2314xYeJlkL-ow5zuOROoK-A")
 
 
     # Get from my.telegram.org (or @UseTGXBot)
-    APP_ID = int(os.environ.get("APP_ID", "3264079"))
-    API_HASH = os.environ.get("API_HASH", "41d88a8a4319ad19f451a8ca47d2e37f")
+    APP_ID = int(os.environ.get("APP_ID", "15655409"))
+    API_HASH = os.environ.get("API_HASH", "ad6d7718a2b83df1ae1558754c560215")
 
 
     # Array to store users who are authorized to use the bot
-    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "926195542").split())
+    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "1139006915").split())
     
